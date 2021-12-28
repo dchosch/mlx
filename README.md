@@ -1,2 +1,2 @@
 # mlx
-Machine Learning Examples
+Some machine learning examples
