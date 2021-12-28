@@ -1,9 +1,8 @@
-# mlx
-Some machine learning examples
+# mlx - some machine learning examples
 
-Intuition
+**Intuition**
 
-Supervised Learning
+**Supervised Learning**
+Face recognition
 
-
-Unsupervised learning
+**Unsupervised learning**
