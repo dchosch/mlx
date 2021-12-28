@@ -3,8 +3,10 @@
 **Intuition**
 * ...
 
+
 **Supervised Learning**
 * Face recognition
+* ...
 
 
 **Unsupervised learning**
