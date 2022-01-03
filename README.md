@@ -9,4 +9,5 @@
 
 **Unsupervised learning applications**
 * [SVD uses](https://github.com/dchosch/mlx/blob/main/SVD%20uses.ipynb)
+* [GMM: beyond k-means](https://github.com/dchosch/mlx/blob/main/gmm%20-%20beyond%20k-means.ipynb)
 * ...
