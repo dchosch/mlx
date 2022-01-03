@@ -7,4 +7,4 @@
 
 
 **Unsupervised learning applications**
-* ...
+* [SVD uses](https://github.com/dchosch/mlx/blob/main/SVD%20uses.ipynb)
