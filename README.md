@@ -3,6 +3,7 @@
 
 **Supervised learning applications**
 * [face recognition](https://github.com/dchosch/mlx/blob/main/face%20recognition.ipynb)
+* [text classification](https://github.com/dchosch/mlx/blob/main/text%20classification.ipynb)
 * [linear regression](https://github.com/dchosch/mlx/blob/main/linear%20regression.ipynb)
 * ...
 
