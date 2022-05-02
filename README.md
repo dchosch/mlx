@@ -14,4 +14,5 @@
 * [Eigen & singular value decomp](https://github.com/dchosch/mlx/blob/main/ed%20and%20svd.ipynb)
 * [SVD uses](https://github.com/dchosch/mlx/blob/main/SVD%20uses.ipynb)
 * [GMM: beyond k-means](https://github.com/dchosch/mlx/blob/main/gmm%20-%20beyond%20k-means.ipynb)
+* [k-means & GMM in RM (a report)](https://github.com/dchosch/mlx/blob/main/kmeans_gmm_in_rm.pdf)
 * ...
